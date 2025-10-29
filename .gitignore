@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# Optional environment files
+# .env  <-- keep this since it has only structure
+
+# Build output
+frontend/build/
+backend/dist/
