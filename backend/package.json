@@ -1,0 +1,20 @@
+{
+  "name": "smart-book-finder-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google-cloud/aiplatform": "^5.12.0",
+    "@google/genai": "^1.27.0",
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.104.0"
+  }
+}
